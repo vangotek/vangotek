@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bugslaya
-- 👀 I’m interested in dart/flutter
+- 👀 I’m interested in building applications
 - 🌱 I’m currently learning everything on my path to success 
 - 💞️ I’m looking to collaborate on meaningful projects 
 - 📫 vjohngo@gmail.com
